@@ -14,5 +14,11 @@ $multiplicacion = $a * $b;
 
 var_dump($suma);
 
+$ac= 159;
+$bc= 85;
+
+$divison = $ac * $bc;
+
+var_dump($divison);
 
 ?>
